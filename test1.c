@@ -2,5 +2,6 @@
 void main()
 {
 	printf("sunil");
+printf("kumar");
 }
 
